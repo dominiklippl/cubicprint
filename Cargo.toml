@@ -1,0 +1,13 @@
+[package]
+name = "CubicPrint"
+version = "1.0.0"
+authors = ['Dominik Lippl <mail@dominiklippl.de>']
+license = "MIT/Apache-2.0"
+repository = "https://github.com/dominiklippl/cubicprint"
+description = "A Simple 3D Printer sever, mainly for the Anycubic i3 mega S"
+readme = "README.md"
+keywords = ["3d printing", "anycubic", "server", "slicer"]
+edition = "2021"
+
+[dependencies]
+log = "0.4"
